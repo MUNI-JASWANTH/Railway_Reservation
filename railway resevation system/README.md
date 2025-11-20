@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/mnt/data/irctc_project/assets/logo_irctc.png" alt="Railway Booking System Logo" width="600"/>
+  <img src="/assets/logo_irctc.png" alt="Railway Booking System Logo" width="600"/>
 </p>
 
 [![Java](https://img.shields.io/badge/Language-Java-blue?style=flat-square)](https://www.java.com/) [![Maven](https://img.shields.io/badge/Build-Maven-%23007d9c?style=flat-square)](https://maven.apache.org/) [![BCrypt](https://img.shields.io/badge/Security-BCrypt-orange?style=flat-square)](https://en.wikipedia.org/wiki/Bcrypt) [![License-MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE) [![Version](https://img.shields.io/badge/Version-v1.0.0-brightgreen?style=flat-square)](#)
