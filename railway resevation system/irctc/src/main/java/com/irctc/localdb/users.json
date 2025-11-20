@@ -1,0 +1,13 @@
+[ {
+  "name" : "Muni",
+  "email" : "muni@gmail.com",
+  "passwordHash" : "$2a$10$BLVzSoWR6rsfQuiYgO9xGefRYxJjCe5VIb.MQ4eBlpEFUiJ12dplu",
+  "userId" : "U-23f0e884",
+  "bookedTickets" : [ ]
+}, {
+  "name" : "Varsha",
+  "email" : "varsha@gmail.com",
+  "passwordHash" : "$2a$10$zidvkq8jGyQr72ePKeHQUe3qvEXpiFm1QYBuBVRqtDRLKMAxVXOLm",
+  "userId" : "U-a6e2669c",
+  "bookedTickets" : [ "TKT-F8F00877", "TKT-7C7D5EDE" ]
+} ]

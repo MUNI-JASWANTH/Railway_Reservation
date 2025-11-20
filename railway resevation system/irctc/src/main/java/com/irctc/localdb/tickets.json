@@ -1,0 +1,41 @@
+[ {
+  "ticketId" : "TKT-9A8A8273",
+  "userId" : "U-23f0e884",
+  "trainNumber" : "12627",
+  "source" : "New Delhi",
+  "destination" : "Bangalore",
+  "travelDate" : "2025-11-20",
+  "status" : "CANCELLED"
+}, {
+  "ticketId" : "TKT-BADE14ED",
+  "userId" : "U-23f0e884",
+  "trainNumber" : "12627",
+  "source" : "New Delhi",
+  "destination" : "Bangalore",
+  "travelDate" : "2025-11-20",
+  "status" : "CANCELLED"
+}, {
+  "ticketId" : "TKT-90D45E14",
+  "userId" : "U-23f0e884",
+  "trainNumber" : "12627",
+  "source" : "New Delhi",
+  "destination" : "Bangalore",
+  "travelDate" : "2025-11-20",
+  "status" : "CANCELLED"
+}, {
+  "ticketId" : "TKT-F8F00877",
+  "userId" : "U-a6e2669c",
+  "trainNumber" : "12627",
+  "source" : "Hyderabad",
+  "destination" : "Bangalore",
+  "travelDate" : "2025-11-20",
+  "status" : "BOOKED"
+}, {
+  "ticketId" : "TKT-7C7D5EDE",
+  "userId" : "U-a6e2669c",
+  "trainNumber" : "12627",
+  "source" : "Hyderabad",
+  "destination" : "Bangalore",
+  "travelDate" : "2025-11-20",
+  "status" : "BOOKED"
+} ]

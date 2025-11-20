@@ -1,0 +1,26 @@
+[
+  {
+    "trainNumber": "12001",
+    "route": ["Delhi", "Aligarh", "Kanpur", "Lucknow"]
+  },
+  {
+    "trainNumber": "12627",
+    "route": ["Hyderabad", "Kurnool", "Bangalore"]
+  },
+  {
+    "trainNumber": "17318",
+    "route": ["Bangalore", "Hubli", "Goa"]
+  },
+  {
+    "trainNumber": "22901",
+    "route": ["Mumbai", "Surat", "Vadodara", "Delhi"]
+  },
+  {
+    "trainNumber": "12423",
+    "route": ["Agra", "Mathura", "Delhi"]
+  },
+  {
+    "trainNumber": "16524",
+    "route": ["Mangalore", "Mysore", "Bangalore"]
+  }
+]
